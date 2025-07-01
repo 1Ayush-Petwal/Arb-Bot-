@@ -10,6 +10,7 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "axios": "^1.10.0"
+    "axios": "^1.10.0",
+    "hashlib": "^1.0.1"
   }
 }
